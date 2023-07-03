@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "HnnM35tumjUfN4ruqYrI4ihZ8cHYSEAw8y9z1HySV/wI66T9hfCMFqer6Zs/kHQ1i3RDh7Ls09iBbS5u3yMI1Q==",
+  "success": true,
+  "projectFilePath": "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie/TheMovie.csproj",
+  "expectedPackageFiles": [
+    "/Users/drika/.nuget/packages/cardsview/1.6.6/cardsview.1.6.6.nupkg.sha512",
+    "/Users/drika/.nuget/packages/dryioc.dll/3.0.2/dryioc.dll.3.0.2.nupkg.sha512",
+    "/Users/drika/.nuget/packages/microsoft.appcenter/1.11.0/microsoft.appcenter.1.11.0.nupkg.sha512",
+    "/Users/drika/.nuget/packages/microsoft.appcenter.analytics/1.11.0/microsoft.appcenter.analytics.1.11.0.nupkg.sha512",
+    "/Users/drika/.nuget/packages/microsoft.appcenter.crashes/1.11.0/microsoft.appcenter.crashes.1.11.0.nupkg.sha512",
+    "/Users/drika/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/drika/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/drika/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/drika/.nuget/packages/plugin.share/7.1.1/plugin.share.7.1.1.nupkg.sha512",
+    "/Users/drika/.nuget/packages/prism.core/7.1.0.431/prism.core.7.1.0.431.nupkg.sha512",
+    "/Users/drika/.nuget/packages/prism.dryioc.forms/7.1.0.431/prism.dryioc.forms.7.1.0.431.nupkg.sha512",
+    "/Users/drika/.nuget/packages/prism.forms/7.1.0.431/prism.forms.7.1.0.431.nupkg.sha512",
+    "/Users/drika/.nuget/packages/xam.plugin.connectivity/3.2.0/xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "/Users/drika/.nuget/packages/xamarin.ffimageloading/2.4.4.859/xamarin.ffimageloading.2.4.4.859.nupkg.sha512",
+    "/Users/drika/.nuget/packages/xamarin.ffimageloading.forms/2.4.4.859/xamarin.ffimageloading.forms.2.4.4.859.nupkg.sha512",
+    "/Users/drika/.nuget/packages/xamarin.forms/3.4.0.1008975/xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}

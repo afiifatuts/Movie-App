@@ -1,0 +1,17 @@
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/bin/Debug/netstandard2.0/TheMovie.deps.json
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/bin/Debug/netstandard2.0/TheMovie.dll
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/bin/Debug/netstandard2.0/TheMovie.pdb
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/TheMovie.csproj.AssemblyReference.cache
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/TheMovie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/TheMovie.AssemblyInfoInputs.cache
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/TheMovie.AssemblyInfo.cs
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/TheMovie.csproj.CoreCompileInputs.cache
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/TheMovie.dll
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/TheMovie.pdb
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/Views/MovieDetailPage.xaml.g.cs
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/Views/SearchMoviesPage.xaml.g.cs
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/Cells/MovieCell.xaml.g.cs
+/Users/drika/Documents/tsaani/dot-net/TheMovie/TheMovie/obj/Debug/netstandard2.0/Cells/VideoCell.xaml.g.cs

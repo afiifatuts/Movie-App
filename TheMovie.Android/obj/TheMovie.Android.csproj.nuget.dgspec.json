@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie.Android/TheMovie.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie.Android/TheMovie.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie.Android/TheMovie.Android.csproj",
+        "projectName": "TheMovie.Android",
+        "projectPath": "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie.Android/TheMovie.Android.csproj",
+        "packagesPath": "/Users/drika/.nuget/packages/",
+        "outputPath": "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/drika/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {
+              "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie/TheMovie.csproj": {
+                "projectPath": "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie/TheMovie.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Plugin.CurrentActivity": {
+              "target": "Package",
+              "version": "[2.1.0.4, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie/TheMovie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie/TheMovie.csproj",
+        "projectName": "TheMovie",
+        "projectPath": "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie/TheMovie.csproj",
+        "packagesPath": "/Users/drika/.nuget/packages/",
+        "outputPath": "/Users/drika/Documents/tsaani/dot-net/movie-app/TheMovie/TheMovie/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/drika/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "CardsView": {
+              "target": "Package",
+              "version": "[1.6.6, )"
+            },
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Plugin.Share": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "Prism.DryIoc.Forms": {
+              "target": "Package",
+              "version": "[7.1.0.431, )"
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.4.859, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.4.0.1008975, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

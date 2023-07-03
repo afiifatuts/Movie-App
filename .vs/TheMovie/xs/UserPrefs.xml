@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{AB261A7C-B760-4413-BDA9-FAEE2E6B47B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheMovie/TheMovie.csproj">
+    <Files>
+      <File FileName="TheMovie/Views/SearchMoviesPage.xaml.cs" Line="20" Column="15" />
+      <File FileName="TheMovie/ViewModels/MovieDetailPageViewModel.cs" />
+      <File FileName="TheMovie/TheMovie.csproj" Line="8" Column="1" />
+      <File FileName="Readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheMovie" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TheMovie.Android PreferredExecutionTarget="Android.Pixel_3_XL_API_29" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
