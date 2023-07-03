@@ -1,20 +1,39 @@
 ﻿<Properties StartupConfiguration="{AB261A7C-B760-4413-BDA9-FAEE2E6B47B6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TheMovie/TheMovie.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheMovie.Android/Resources/layout/tabbar.xml">
     <Files>
-      <File FileName="TheMovie/Views/SearchMoviesPage.xaml.cs" Line="20" Column="15" />
-      <File FileName="TheMovie/ViewModels/MovieDetailPageViewModel.cs" />
-      <File FileName="TheMovie/TheMovie.csproj" Line="8" Column="1" />
-      <File FileName="Readme.txt" Line="1" Column="1" />
+      <File FileName="TheMovie/Converters/ItemAppearingEventArgsConverter.cs" Line="25" Column="1" />
+      <File FileName="TheMovie/Const/ConfigApp.cs" Line="1" Column="1" />
+      <File FileName="TheMovie/App.xaml" Line="1" Column="1" />
+      <File FileName="TheMovie/Helpers/ObservableRangeCollection.cs" Line="1" Column="1" />
+      <File FileName="TheMovie/App.xaml.cs" Line="23" Column="14" />
+      <File FileName="TheMovie/Views/GenrePage.xaml" Line="10" Column="32" />
+      <File FileName="TheMovie/Views/GenrePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TheMovie.Android/Resources/layout/tabbar.xml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TheMovie" expanded="True" selected="True" />
+          <Node name="TheMovie" expanded="True">
+            <Node name="TheMovie" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="GenrePage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="TheMovie.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="tabbar.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TheMovie.Android PreferredExecutionTarget="Android.Pixel_3_XL_API_29" />
+  <MonoDevelop.Ide.ItemProperties.TheMovie.Android AndroidDesignerPreferredTheme="MainTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_3_XL_API_29" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

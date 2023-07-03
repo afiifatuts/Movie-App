@@ -6,7 +6,7 @@
              x:Class="TheMovie.Cells.MovieCell">
     <ContentView.Content>
         <controls:CardView 
-            Margin="0,3"
+            Margin="0,5"
             HeightRequest="150">
             <Grid>
                 <Grid.ColumnDefinitions>

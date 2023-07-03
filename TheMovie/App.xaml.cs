@@ -20,9 +20,9 @@ namespace TheMovie
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
-            containerRegistry.RegisterForNavigation<NavigationPage>();
+           // containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage>();
-            containerRegistry.RegisterForNavigation<SearchMoviesPage>();
+            containerRegistry.RegisterForNavigation<GenrePage>();
             containerRegistry.RegisterForNavigation<MovieDetailPage>();
         }
 

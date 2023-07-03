@@ -5,11 +5,11 @@ using System;
 
 namespace Mobile.Droid
 {
-#if DEBUG
-    [Application(Debuggable = true)]
-#else
-    [Application(Debuggable = false)]
-#endif
+//#if DEBUG
+//    [Application(Debuggable = true)]
+//#else
+//    [Application(Debuggable = false)]
+//#endif
     public class MainApplication : Application
     {
         public MainApplication(IntPtr handle, JniHandleOwnership transer)

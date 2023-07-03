@@ -16,7 +16,7 @@ namespace TheMovie.Services
 {
     public class TmdbService : IApiService
     {
-        private const string apiKey = "1f54bd990f1cdfb230adb312546d765d";
+        private const string apiKey = "79e03565e5fe32e1d3ff306c33362efc";
         private const string baseUrl = "https://api.themoviedb.org/3";
 
         private const string searchMoviePath = "/search/movie";
